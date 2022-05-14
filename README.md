@@ -1,1 +1,1 @@
-Сайт для моего PassGenerator
+Сайт для PassGenerator
