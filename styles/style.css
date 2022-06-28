@@ -1,7 +1,3 @@
-@font-face {
-    	font-family: 'MinecraftRus';
-   	 src: url('styles/font/minecraft.ttf');
-}
 .centerall {
 	color: grey;
 	text-align: center;
@@ -12,7 +8,6 @@
 body {
 	background: #e2e2e2;
 	cursor: url(cursor/arrow.cur), default;
-    	font-family: 'MinecraftRus';
 }
 .af {
 	/* background: white; */
