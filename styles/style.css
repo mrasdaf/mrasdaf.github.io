@@ -8,6 +8,7 @@
 body {
 	background: #e2e2e2;
 	cursor: url(cursor/arrow.cur), default;
+    	font-family: 'YourFontName';
 }
 .af {
 	/* background: white; */
@@ -20,3 +21,7 @@ body {
 }
 .downloadlink {
 	color: black;
+@font-face {
+    	font-family: 'MinecraftRus';
+   	 src: url('styles/font/minecraft.ttf');
+}
