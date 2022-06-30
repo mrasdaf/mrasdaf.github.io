@@ -1,0 +1,24 @@
+@font-face {
+    font-family: MineRus;
+    src: url("font/minecraft.ttf");
+}
+body {
+    background-color: #e2e2e2;
+    font-family: MineRus;
+}
+.centerall {
+	text-align: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.af {
+    text-decoration: none;
+    color: #777777;
+}
+#yt {
+    color: red;
+}
+#discord {
+    color: rgb(162, 0, 255);
+}

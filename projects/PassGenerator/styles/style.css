@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Minecraft Rus'; /* Гарнитура шрифта */
+    src: url(font/minecraft.ttf); /* Путь к файлу со шрифтом */
+}
+
+.centerall {
+	color: grey;
+	text-align: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+	background: #e2e2e2;
+	cursor: url(cursor/arrow.cur), default;
+	font-family: 'Minecraft Rus';
+}
+.af {
+	/* background: white; */
+	color: black;
+	text-decoration: none;
+}
+.afselected {
+	color: #f00;
+	text-decoration: none;
+}
+.downloadlink {
+	color: black;
+}
